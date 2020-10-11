@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IQvhaBhnRJd6oddfmynNk/juGdYC+p7TuyyydYzJh6d6BNQGj3+c0BpjRT6dgW0Ustg7XSMEQXg8ikKIne9h6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\probook 430\\Desktop\\Semester 5\\Software Engineering\\SE Lab\\SE Term Project\\FoodApp\\FoodAppMVCPractice\\FoodAppMVCPractice\\FoodAppMVCPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\probook 430\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
